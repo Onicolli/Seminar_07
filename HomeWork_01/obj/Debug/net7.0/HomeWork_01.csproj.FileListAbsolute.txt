@@ -1,0 +1,15 @@
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\bin\Debug\net7.0\HomeWork_01.exe
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\bin\Debug\net7.0\HomeWork_01.deps.json
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\bin\Debug\net7.0\HomeWork_01.runtimeconfig.json
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\bin\Debug\net7.0\HomeWork_01.dll
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\bin\Debug\net7.0\HomeWork_01.pdb
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.csproj.AssemblyReference.cache
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.AssemblyInfoInputs.cache
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.AssemblyInfo.cs
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.csproj.CoreCompileInputs.cache
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.dll
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\refint\HomeWork_01.dll
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.pdb
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\HomeWork_01.genruntimeconfig.cache
+C:\Users\texa\Desktop\GB HW\Семинар 7\HomeWork_01\obj\Debug\net7.0\ref\HomeWork_01.dll
