@@ -52,17 +52,17 @@ void PrintArray(int[,] AArray)
     }
 }
 
-void PrintValue(int[,] AArray, int x, int y)
-    {
-        if (x < 0 || x >= AArray.GetLength(0) || y < 0 || y >= AArray.GetLength(1))
-        {
-            Console.WriteLine($"Элемент с такими позициями не существует");
-        }
-        else
-        {
-            Console.WriteLine($"Значение элемента: {AArray[x, y]}");
-        }
-    }
+// void PrintValue(int[,] AArray, int x, int y)
+//     {
+//         if (x < 0 || x >= AArray.GetLength(0) || y < 0 || y >= AArray.GetLength(1))
+//         {
+//             Console.WriteLine($"Элемент с такими позициями не существует");
+//         }
+//         else
+//         {
+//             Console.WriteLine($"Значение элемента: {AArray[x, y]}");
+//         }
+//     }
 
 //? Вывод
 
